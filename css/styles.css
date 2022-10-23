@@ -1,1 +1,29 @@
+body {
+  background: green;
+}
 
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: turquoise;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
